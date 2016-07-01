@@ -1,0 +1,7 @@
+This is a cheesy metasearch engine.
+
+Currently it scrapes four search engines and attempts to display only relevant
+links from the first page of each. 
+
+This project was made on a whim just for fun, so don't expect any updates
+anytime soon.
